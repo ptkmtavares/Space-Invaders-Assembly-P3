@@ -26,13 +26,15 @@ Antes de executar o jogo, certifique-se de ter instalado o emulador Assembly P3 
    cd space-invaders-assembly-p3
    ```
 
-3. Abra o emulador Assembly P3 e carregue o arquivo do jogo:
+3. Compile o arquivo:
 
    ```
-   java -jar p3sim.jar
+   p3as-win.exe SpaceInvaders.as
    ```
+   
+4. Abra o emulador `p3sim.jar` e carregue o arquivo compilado
 
-4. Siga as instruções exibidas no emulador para jogar o Space Invaders!
+5. Siga as instruções exibidas no emulador para jogar o Space Invaders!
 
 ---
 
