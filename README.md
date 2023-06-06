@@ -10,7 +10,7 @@ O Space Invaders é um jogo clássico de tiro, no qual o jogador controla uma na
 
 ## Requisitos
 
-Antes de executar o jogo, certifique-se de ter instalado o emulador Assembly P3 em seu ambiente. Você pode encontrar o emulador e as instruções de instalação em [Assembly P3 Emulator](https://assemblyp3.uwaterloo.ca/).
+Antes de executar o jogo, certifique-se de ter instalado o emulador Assembly P3 em seu ambiente. Você pode encontrar o emulador e as instruções de instalação em [Processador P3](http://algos.inesc-id.pt/arq-comp/?Material_Did%C3%A1tico___Processador_P3).
 
 ## Como executar
 
